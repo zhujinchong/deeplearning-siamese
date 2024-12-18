@@ -60,7 +60,7 @@ data_crawler.py         # 使用selenium抓取图标数据
 
 最终模型大小：
 
-- vgg16： 65M
+- vgg16： 66M
 - resnet50: 99M
 
 效果：
@@ -75,7 +75,7 @@ data_crawler.py         # 使用selenium抓取图标数据
 速度：
 
 1. vgg16_onnx，在window上，占用内容忽略不计，速度：每秒30次；
-2. 
+2. resnet50_onnx，
 
 # 爬取数据
 
